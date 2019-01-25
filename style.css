@@ -1,0 +1,19 @@
+
+body{
+	padding:15%;
+	font:200 1.25em/2.6 monospace;
+	background-color:firebrick;
+    color:#000;
+}
+
+h1{
+	font-family:"Arial Black",sans-serif;
+    line-height:1;
+	font-weight:300;
+	margin-bottom:1em;
+}
+
+.rl{
+	padding:2em;
+	background-color:lightslategray;
+}
